@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/XiuzSource/!svn/ver/23
+END
+XiuzSource
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/XiuzSource/!svn/ver/24/XiuzSource
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/XiuzSource/!svn/ver/1/db.properties
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XiuzSource/!svn/ver/1/logging.properties
+END
+world.properties
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/XiuzSource/!svn/ver/22/world.properties
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/XiuzSource/!svn/ver/1/LICENSE
+END
+world.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/XiuzSource/!svn/ver/1/world.truststore
+END
+filename.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/XiuzSource/!svn/ver/1/filename.keystore
+END
+launch_world.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/XiuzSource/!svn/ver/1/launch_world.bat
+END
+launch_world.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/XiuzSource/!svn/ver/1/launch_world.sh
+END
+world.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/XiuzSource/!svn/ver/1/world.keystore
+END
+[XiuzSource] Launcher.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/XiuzSource/!svn/ver/14/%5BXiuzSource%5D%20Launcher.bat
+END
+channel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XiuzSource/!svn/ver/1/channel.properties
+END
+Information.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/XiuzSource/!svn/ver/1/Information.txt
+END
+login.properties
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/XiuzSource/!svn/ver/1/login.properties
+END
+login.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/XiuzSource/!svn/ver/1/login.truststore
+END
+channel.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XiuzSource/!svn/ver/1/channel.truststore
+END
+[XiuzSource] OneW.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/XiuzSource/!svn/ver/14/%5BXiuzSource%5D%20OneW.bat
+END
+sendops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XiuzSource/!svn/ver/1/sendops.properties
+END
+launch_login.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/XiuzSource/!svn/ver/1/launch_login.bat
+END
+launch_channel.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XiuzSource/!svn/ver/1/launch_channel.bat
+END
+launch_channel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/XiuzSource/!svn/ver/1/launch_channel.sh
+END
+credits.coders
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/XiuzSource/!svn/ver/19/credits.coders
+END
+launch_login.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/XiuzSource/!svn/ver/1/launch_login.sh
+END
+channel.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/XiuzSource/!svn/ver/1/channel.keystore
+END
+login.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/XiuzSource/!svn/ver/1/login.keystore
+END
+recvops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/XiuzSource/!svn/ver/1/recvops.properties
+END

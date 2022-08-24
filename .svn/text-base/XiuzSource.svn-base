@@ -1,0 +1,189 @@
+============================================================================
+-------------------------------- XiuzSource --------------------------------
+============================================================================
+
+(Version 1.0)
+Removed ALL exploits.
+Fixed MapleShops not sellings pots and such.
+Fixed Cooldown mistake ban.
+Fixed pets not eating petfood if you have more than 1.
+Fixed characters ID's numbers of the tables.
+Fixed Sending/receiving notes problem.
+Fixed Merchants from getting items stolen from PE.
+Fixed Shops to get money when items are sold.
+Fixed Merchants being open with PE.
+Fixed Mesos drop PE.
+Max channels is now 20.
+
+(Version 1.1)
+Added auto-ban for damage hack.
+Added auto-ban for summon damage hack.
+Added auto-ban for abnormal damage receive.
+Added commands for donators.
+Added easy map/channel PvP selection on World.pro.
+Removed ester egg drop.
+Removed logged in notice/buff for normal players.
+Changed beginning spawn point to training camp.
+Fixed D/C when combo and transformation are active.
+Fixed mesos starting over at 0 if you go over max.
+
+(Version 1.2)
+Fixed 15 unclosed connections.
+Added auto register.
+Added auto register on/off at world.pro.
+Added slot purchase to the CS.
+Added more security on MTS.
+Removed MOST PE methods.
+
+(Version 1.3)
+Added anti-pet PE crash.
+Added anti-drop-dupe PE.
+Added anti-smega PE.
+Fixed 3 unclosed connections.
+Fixed skill maxer.
+Fixed autoregister.
+Fixed nested exception error.
+Fixed making a merchant anywhere PE.
+Improved CashItemFactory.
+
+(Version 1.4)
+Added Pmob.
+Added Pnpc.
+Removed last exploit.
+Fixed guilds.
+
+(Version 1.5)
+Added better reborn system.
+Added IP-tracker.
+Fixed auto-register.
+
+(Version 1.6)
+Fixed combo to work for all classes.
+Added Autoban switch in world.properties.
+Added increase of maximun text before ban to 100.
+
+(Version 1.7)
+Cleaned DB.
+Cleaned SQL.
+Personalized the source to 'XiuzSource' name.
+Added MTS turn on/off option in world.pro.
+Added CashShop turn on/off option in world.pro.
+Added one more fix for duey.
+Added !closemerchants.
+Removed SQL command from admins.
+Fixed pet +1 mass feeding.
+
+(Version 1.8)
+Fixed 1 unclosed connection.
+Fixed after reborn level to 1.
+Fixed all kinds of pet food to work.
+Fixed double 'goto' commands.
+Added 1 window starter bat.
+Added 3 PE preventions to merchants.
+Added option to allow/disallow non-GM's to wear GM items.
+
+(Version 1.9)
+Added full Merchants.
+Edited a few things for player commands.
+Edited Frederic a bit.
+
+(Version 2.0)
+Fixed Frederic.
+Fixed !goto command.
+Fixed last merchant error.
+Fixed 7 unclosed connections.
+Fixed after reborn level to 1.
+Added 1 PE prevention to merchants. 
+
+(Version 2.1)
+Added skill maxer to sera.
+Added !killnear command.
+Fixed !goto command.
+Fixed gaining mesos problem.
+Fixed negative experience.
+
+(Version 2.2)
+Fixed gaining mesos problem.
+Added temporary negative exp fix.
+
+(Version 2.3)
+Fixed setlevel.
+Fixed mesos problem.
+Fixed negative experience.
+Fixed 4 unclosed connections.
+Added quests drops.
+Added player NPC's.
+Added two worlds option in world.pro.
+Changed autoban default to active.
+Organized world.pro.
+
+(Version 2.4)
+Fixed player name PE.
+Fixed quest start PE.
+Fixed CashItem PE.
+Fixed d/c PE.
+Fixed party problems.
+Added packets.
+Removed packets print-out.
+
+(Version 2.5)
+Fixed pets.
+Fixed 2 CPU leaks.
+Fixed 10 unclosed connections.
+Fixed show logged off when hidden.
+Removed possible SQL injection.
+Changed experience table check.
+
+(Version 2.6)
+Fixed d/c problem.
+Added option for max account for A/R.
+
+(Version 2.7)
+Improved Duey.
+Removed a few commands.
+Added commands spam control.
+Added extra commands option.
+Fixed Merchant item owner tag.
+Organized extras/players/donators commands.
+
+(Version 2.8)
+Source clean up.
+Clear comments.
+Fixed 10 unclosed connections.
+
+(Version 2.9)
+Changed beginning messages extra "MS".
+Fixed pets food after one.
+
+(Version 3.0)
+Fixed all pet foods.
+Fixed regular permit error.
+Fixed full Player Shops.
+Added check for non-existent NX items.
+
+(Version 3.1)
+Minor clean up.
+Fixed MTS.
+Fixed mounts getting stuck.
+Fixed pets saving.
+
+(Version 3.2)
+Source clean up.
+Added cleaner display of messages.
+Fixed Zakum.
+Fixed bosses drop.
+Fixed 15 unclosed connections.
+
+(Version 3.3)
+Minor clean up.
+Removed JobChange from the SQL.
+Fixed changing channel problem.
+
+(Version 3.4)
+Minor clean up.
+Fixed GM's can get diseases.
+Fixed showing 30k HP after level-up.
+
+============================================================================
+-------------------------------- BY: XiuzSu --------------------------------
+============================================================================
